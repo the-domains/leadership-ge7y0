@@ -1,0 +1,14 @@
+layout_spectrum: 0.7838543502148241
+typography_spectrum: 0.865444186842069
+color:
+  brandStrength: 0.9679350948426872
+  lightness: 0.9443343374878168
+  saturation: 0.36813087691552937
+  rhythmicContrast: 0.4325021079275757
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Leadership
