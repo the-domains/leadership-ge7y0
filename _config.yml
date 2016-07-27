@@ -12,3 +12,7 @@ color:
     - '#6B574B'
     - '#160600'
 name: Leadership
+navigation:
+  - id: e6e3a5da-a44d-438c-8a69-df2407d98fee
+    name: Leadership
+    type: content
