@@ -13,6 +13,9 @@ color:
     - '#160600'
 name: Leadership
 navigation:
-  - id: e6e3a5da-a44d-438c-8a69-df2407d98fee
-    name: Leadership
+  - name: Leadership
+    id: e6e3a5da-a44d-438c-8a69-df2407d98fee
+    type: content
+  - name: Impact
+    id: d292bb10-7199-441b-9348-f684befda1ed
     type: content
